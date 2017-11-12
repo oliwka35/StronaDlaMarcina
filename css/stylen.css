@@ -1,0 +1,78 @@
+html,
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  background-image: url("../img/zdj.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+
+
+  }
+
+
+  * {
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+
+}
+
+
+.nav {
+  background-color: ;
+  color: #ea6c56;
+  font-weight: 600;
+  position: center fixed-top;
+
+
+}
+
+.navbar-brand {
+  color: #ea6c56;
+  text-decoration: none;
+  font-size: 2.5rem;
+  text-transform: uppercase;  
+
+}
+
+.brand-container {
+  padding: 0;
+}
+
+.navbar-brand:hover {
+  color: #ea6c56;
+}
+
+.nav-list {
+  color: #ea6c56;
+  font-size: 1.5rem;
+  text-transform: uppercase;  
+  font-weight: 600;
+}
+
+.nav-list a {
+  color: #424343;  
+}
+
+.nav-list a:hover {
+  color: #ea6c56;  
+}
+
+.dropdown {
+  display: none;
+  background-color: #fff;
+  border-radius: 0 .0 .5rem .5rem; */
+
+position: absolute;
+  left: 0;
+  margin: auto;
+  padding: 1rem 2rem 1rem 2rem;
+}
+
+.dropdown ul {
+  list-style: none;
+  padding: 0;
+}
+
